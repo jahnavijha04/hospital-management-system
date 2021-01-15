@@ -1,0 +1,21 @@
+1. Download Xampp and install (https://www.apachefriends.org/download.html)
+2. Paste the hospital folder in Xampp/htdocs
+3. Start Xampp software by clicking xampp_start.exe file (in xampp folder)
+4. minimize xampp.
+5. Open browser and in address type http://localhost/phpmyadmin
+6. create a new database with name hms
+6. import hms.sql file
+7. run the project using http://localhost/hospital
+
+
+login
+
+admin:Prashant (or Jahanvi)
+password: Test@123
+
+patient:abc@gmail.com
+password: Prashant619@
+
+Doctor:test
+password:Test@123
+
